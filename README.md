@@ -13,4 +13,4 @@ Some possible use-cases:
 
 etc.
 
-Feel free to contribute by "ADDING AN ISSUE". If you have a nice template, let me know and I'll add it to the workbook!
+Feel free to contribute by [ADDING AN ISSUE](https://github.com/DataStrategist/Todoist_stuff/issues). If you have a nice template, let me know and I'll add it to the workbook!
