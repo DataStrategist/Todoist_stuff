@@ -1,5 +1,6 @@
 # Todoist_stuff
-Collection of stuff to improve working with the https://todoist.com. I'll be adding more stuff eventually, stay tuned! 
+Collection of stuff to improve working with the https://todoist.com. I'll be adding more stuff eventually, stay tuned! To be clear, I am not associated w/ Todoist in any way.
+
 Assets below:
 
 ## Todoist Task Maker.xlsx
