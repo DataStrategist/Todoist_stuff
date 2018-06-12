@@ -1,7 +1,8 @@
 # Todoist_stuff
-Collection of stuff to improve working with the program todoist.
+Collection of stuff to improve working with the https://todoist.com. I'll be adding more stuff eventually, stay tuned! 
+Assets below:
 
-## "Todoist Task Maker"
+## Todoist Task Maker.xlsx
 Basically an excel spreadsheet that allows you to save a list of tasks so that the next time you have to embark on the same exercise, you know you can just repeat the same set of tasks, with all the metadata.
 
 Some possible use-cases:
